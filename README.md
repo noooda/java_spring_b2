@@ -1,1 +1,2 @@
-# java_spring_b1
+# java_spring_b2
+@RestControllerを用いたGET/POSTエンドポイントを作成し、JSONレスポンスを返す
